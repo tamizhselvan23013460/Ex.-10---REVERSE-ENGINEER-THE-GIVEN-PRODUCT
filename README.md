@@ -1,6 +1,4 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
-
-### DATE: 
+# Ex. 04  - REVERSE ENGINEER THE GIVEN PRODUCT
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -32,11 +30,15 @@
 
 ## Input:
 
+![Door stopper input](https://github.com/user-attachments/assets/b500349e-362d-41a0-b33f-42188ace31ab)
+
 ### Output:
 
+![Door stopper output](https://github.com/user-attachments/assets/8ab63c0c-28b7-47b7-ab7b-f8249a5c3d86)
 
-### Name:
-### Register Number:
+### Name:Tamizhselvan B
+### Register Number:212223230225
 
 ## RESULT:
-###   Thus the given product is reverse engineered and prototyped using 3D Printer.
+
+Thus the given product is reverse engineered and prototyped using 3D Printer.
